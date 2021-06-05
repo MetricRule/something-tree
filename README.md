@@ -1,9 +1,7 @@
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
-
 
 ## Introduction
 
-This repository contains the actual app that requries login i.e the dashboard.
+This repository contains an app that generates a flowchart quiz from a JSON spec.
 
 ### Built with 
 - [Vue 3](https://v3.vuejs.org/)
